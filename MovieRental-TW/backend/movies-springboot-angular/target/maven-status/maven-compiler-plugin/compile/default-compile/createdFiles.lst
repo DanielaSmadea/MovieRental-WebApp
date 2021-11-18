@@ -1,0 +1,6 @@
+movies\rental\project\dao\ProductRepository.class
+movies\rental\project\entity\ProductCategory.class
+movies\rental\project\MovieRentalApplication.class
+movies\rental\project\dao\ProductCategoryRepository.class
+movies\rental\project\entity\Product.class
+movies\rental\project\config\MyDataRestConfig.class

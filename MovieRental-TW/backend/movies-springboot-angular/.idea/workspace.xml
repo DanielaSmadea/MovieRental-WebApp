@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e495c35e-a21b-43f9-8952-ede59786a359" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-boot-ecommerce" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T5SShrkYtJQZuPVEfuEFvmLy92" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootEcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
+      <module name="spring-boot-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootEcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e495c35e-a21b-43f9-8952-ede59786a359" name="Default Changelist" comment="" />
+      <created>1572748464652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572748464652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="1168" key="#com.intellij.ide.util.MemberChooser" timestamp="1575202164454">
+      <screen x="165" y="1103" width="1280" height="697" />
+    </state>
+    <state x="618" y="1168" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1575202164454" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom" timestamp="1578839945268">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578837624314" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@0.23.1920.1057" timestamp="1577736579330" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@165.1103.1280.697" timestamp="1577745289012" />
+    <state width="1238" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1578839945268" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center" timestamp="1578839945267">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578837624312" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@0.23.1920.1057" timestamp="1577736579329" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@165.1103.1280.697" timestamp="1577745289011" />
+    <state width="1238" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1578839945267" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left" timestamp="1578839945266">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578837624311" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@0.23.1920.1057" timestamp="1577736579328" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@165.1103.1280.697" timestamp="1577745289010" />
+    <state width="1238" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1578839945266" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right" timestamp="1578839945267">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1238" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578837624313" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@0.23.1920.1057" timestamp="1577736579329" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@165.1103.1280.697" timestamp="1577745289011" />
+    <state width="1238" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1578839945267" />
+    <state x="314" y="1103" key="SettingsEditor" timestamp="1578799763370">
+      <screen x="165" y="1103" width="1280" height="697" />
+    </state>
+    <state x="314" y="1103" key="SettingsEditor/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578799763370" />
+    <state x="591" y="1340" key="com.intellij.ide.util.TipDialog" timestamp="1578837033316">
+      <screen x="165" y="1103" width="1280" height="697" />
+    </state>
+    <state x="639" y="383" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575201793395" />
+    <state x="591" y="1340" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/165.1103.1280.697/1920.-24.1920.1057/0.23.1920.1057@165.1103.1280.697" timestamp="1578837033316" />
+    <state x="639" y="382" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@0.23.1920.1057" timestamp="1577736534472" />
+    <state x="591" y="1340" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/1920.-24.1920.1057/165.1103.1280.697/0.23.1920.1057@165.1103.1280.697" timestamp="1577736769977" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/SpringBootEcommerceApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
