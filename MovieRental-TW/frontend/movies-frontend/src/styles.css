@@ -57,6 +57,11 @@ img{
     height:auto
 }
 
+.imgg-responsive{
+    max-width:60%;
+    height:auto;
+}
+
 p{
     margin:0;
     color:rgb(250, 250, 250);
@@ -82,7 +87,7 @@ h3{
 }
 
 h4{
-    font-size:18px
+    font-size:18px;
 }
 
 h5{
@@ -94,8 +99,9 @@ h6{
 }
 
 a{
-    display:inline-block
+    display:inline-block;
 }
+
 
 a.mt-5{
     display:inline-block;
@@ -300,6 +306,22 @@ input.au-input.au-input-xl{
     display:flex
 }
 
+/* add to cart */
+.btn-btn-primary-btn-sm{
+    position:relative;
+    right:0;
+    min-width:130px;
+    color:#fff;
+    border:1px solid #470c6e;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:60px;
+    background:#ab4beb;
+    padding:7px;
+
+}
+
+/* search */
 .au-btn-submit{
     position:relative;
     right:0;
@@ -465,7 +487,7 @@ input.au-input.au-input-xl{
 }
 
 .detail-img{
-    width: 30%;
+    width: 23%;
 }
 
 /**/
@@ -476,7 +498,7 @@ input.au-input.au-input-xl{
  * ----------------------------
  */
 
- .btn-info{
+.btn-info{
     color:#fff;
     background-color:#ce73f8!important;
     border-color:#c064f5!important
@@ -515,7 +537,7 @@ footer ul li a:hover{
 footer{
     background:#120118;
     z-index:1;
-    position:relative;
+    /* position:relative; */
     text-align:center
 }
 footer li a{
@@ -530,3 +552,174 @@ footer ul li{
 .mr-2{
     color:#efc1fa
 }
+
+
+/* 
+ * ----------------------------
+ * Shopping Cart Details
+ * ----------------------------
+ */
+
+ .table{
+    margin:0
+}
+table.table.table-bordered{
+    border:1px solid rgb(109, 50, 109);
+    background:#5d0374
+}
+.table-bordered td,.table-bordered th{
+    border:1px solid rgb(109, 50, 109)
+}
+table.table.table-bordered th{
+    BACKGROUND:#350242;
+    color:#fff;
+    font-size:14px;
+    padding:7px
+}
+.table-responsive{
+    padding-right:1px
+}
+.items select{
+    width:100px;
+    height:40px;
+    border-radius:40px;
+    padding-left:15px;
+    margin-bottom:10px;
+    outline:0;
+    margin-left:5px
+}
+
+
+/* .btn-cart{
+
+    color:#ce73f8;
+}
+
+.btn-cart-remove{
+
+    color:#ce73f8;
+    background-color: #ce73f8;
+}
+
+.btn-cart-checkout{
+
+    color:#ce73f8;
+} */
+
+
+/* 
+ * ----------------------------
+ * Shopping Cart Checkout
+ * ----------------------------
+ */
+
+ .form-area{
+    background:#5d0374;
+    position:relative;
+    margin-bottom:45px;
+    padding:50px 20px;
+    border:3px solid rgb(56, 1, 63)
+}
+.form-area h3{
+    position:absolute;
+    top:-26px;
+    left:13px;
+    background:#ae52d8;
+    padding:10px 20px;
+    font-weight:500;
+    z-index:23;
+    display:inline-block
+}
+.input-space{
+    margin-bottom:20px
+}
+.input-space label{
+    padding-left:31px;
+    font-size:14px;
+    margin-bottom:50px
+}
+.input-space input[type=text]{
+    width:100%;
+    height:40px;
+    border-radius:30px;
+    outline:0;
+    padding:10px;
+    border:1px solid rgb(56, 1, 63)
+}
+.input-space select{
+    width:100%;
+    height:40px;
+    border-radius:30px;
+    outline:0;
+    padding:0 10px;
+    border:1px solid rgb(56, 1, 63)
+}
+.au-checkbox{
+    display:block;
+    position:relative;
+    cursor:pointer;
+    font-size:22px;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none
+}
+.au-checkbox input{
+    position:absolute;
+    opacity:0;
+    cursor:pointer
+}
+.au-checkmark{
+    position:absolute;
+    top:0;
+    left:0;
+    height:22px;
+    width:22px;
+    background-color:rgb(244, 247, 246)!important;
+    border:2px solid rgb(56, 1, 63);
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px
+}
+.au-checkbox:hover input~.au-checkmark{
+    background-color:transparent
+}
+.au-checkbox input:checked~.au-checkmark{
+    background-color:rgb(255, 255, 255)
+}
+.au-checkmark:after{
+    content:"";
+    position:absolute;
+    display:none
+}
+.au-checkbox input:checked~.au-checkmark:after{
+    display:block
+}
+label.date{
+    padding-top:8px
+}
+.au-checkbox .au-checkmark:after{
+    left:5px;
+    top:-1px;
+    width:9px;
+    height:15px;
+    border:solid #ae52d8;
+    border-width:0 4px 4px 0;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    -webkit-transform:rotate(45deg);
+    -moz-transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -o-transform:rotate(45deg);
+    transform:rotate(45deg)
+}
+option:first{
+    color:rgb(116, 113, 113)
+}
+select{
+    color:#515251
+}
+
+
+
